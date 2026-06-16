@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hola, soy Franco N. Cáceres 👋
+# Backend | Diseño de API | Modelado de Base de Datos
+Soy estudiante de la **Licenciatura en Informática**, enfocado en el modelado de base de datos y diseño de API rest.
 <!--
 **FCaceresDev/FCaceresDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
